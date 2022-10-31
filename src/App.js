@@ -23,7 +23,7 @@ function App() {
       {score}
       {createMoleHill()}
     </div>
-  )
+  );
 }
 
 export default App;
